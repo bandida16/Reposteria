@@ -1,0 +1,61 @@
+*{
+    padding: 0%;
+    margin: 0%;
+  }
+ 
+  header{
+     background-color: white;
+     text-align: center;
+  }
+ 
+  nav{
+    text-align: center;
+  } 
+  
+ .logo{
+    max-width: 100px;
+    position: absolute;
+    border-radius: 100px;  
+    margin-left: 100px;
+ }
+ 
+ .menu{
+    display: flex;
+    margin-top: 10px;
+ }
+ 
+ header nav ul li{
+    display: inline-block;
+ }
+ 
+ header nav ul li a{
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 30px;
+    color: white;
+    margin-left: 250px;
+ }
+ 
+ header nav ul li a:hover{
+    color: rgba(201, 186, 232, 0.837);
+    
+ }
+ 
+H2{
+    margin-top: 100px;
+}
+ .texto{
+    align-self: center;
+ }
+ 
+ .pie{
+  background-color:rgb(251, 251, 251);
+    color: aliceblue;
+ }
+ .imagen{
+    border-radius:30px ; 
+ }
+ 
+ .imagen{
+    padding:13px;
+ }
